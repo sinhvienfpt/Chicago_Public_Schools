@@ -5,7 +5,6 @@ GO;
 -- 566x79
 
 
-
 --All data types of columns in table
 SELECT COLUMN_NAME, DATA_TYPE
 FROM INFORMATION_SCHEMA.COLUMNS
@@ -145,3 +144,140 @@ ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
 DROP COLUMN ISAT_Exceeding_Math, ISAT_Exceeding_Reading, ISAT_Value_Add_Math, ISAT_Value_Add_Read, ISAT_Value_Add_Color_Math, ISAT_Value_Add_Color_Read;
 
 
+
+-- Create table tbl_Teachers with columns: School_ID (FOREIGN KEY), Teachers_Icon, Teachers_Score, Average_Teacher_Attendance
+CREATE TABLE tbl_Teachers
+(
+    School_ID INT FOREIGN KEY REFERENCES dbo.tbl_CHICAGO_PUBLIC_SCHOOLS(School_ID),
+    Teachers_Icon NVARCHAR(50),
+    Teachers_Score NVARCHAR(50),
+    Average_Teacher_Attendance FLOAT
+);
+
+INSERT INTO tbl_Teachers
+SELECT School_ID, Teachers_Icon, Teachers_Score, Average_Teacher_Attendance
+FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+
+ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+DROP COLUMN Teachers_Icon, Teachers_Score, Average_Teacher_Attendance;
+
+-- Create table tbl_Leaders with columns: School_ID (FOREIGN KEY), Leaders_Icon, Leaders_Score
+CREATE TABLE tbl_Leaders
+(
+    School_ID INT FOREIGN KEY REFERENCES dbo.tbl_CHICAGO_PUBLIC_SCHOOLS(School_ID),
+    Leaders_Icon NVARCHAR(50),
+    Leaders_Score NVARCHAR(50)
+);
+
+INSERT INTO tbl_Leaders
+SELECT School_ID, Leaders_Icon, Leaders_Score
+FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+
+ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+DROP COLUMN Leaders_Icon, Leaders_Score;
+
+-- Create table tbl_Instruction with columns: School_ID (FOREIGN KEY), Instructors_Icon, Instructors_Score
+CREATE TABLE tbl_Instruction
+(
+    School_ID INT FOREIGN KEY REFERENCES dbo.tbl_CHICAGO_PUBLIC_SCHOOLS(School_ID),
+    Instruction_Icon NVARCHAR(50),
+    Instruction_Score NVARCHAR(50)
+);
+
+INSERT INTO tbl_Instruction
+SELECT School_ID, Instruction_Icon, Instruction_Score
+FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+
+ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS 
+DROP COLUMN Instruction_Icon, Instruction_Score;
+
+-- Create table tbl_School_Survey with columns: School_ID (FOREIGN KEY), Safety_Icon, Safety_Score, Environment_Icon, Environment_Score, CPS_Performance_Policy_Status, CPS_Performance_Policy_Level, Healthy_School_Certified
+CREATE TABLE tbl_School_Survey
+(
+    School_ID INT FOREIGN KEY REFERENCES dbo.tbl_CHICAGO_PUBLIC_SCHOOLS(School_ID),
+    Safety_Icon NVARCHAR(50),
+    Safety_Score NVARCHAR(50),
+    Environment_Icon NVARCHAR(50),
+    Environment_Score NVARCHAR(50),
+    CPS_Performance_Policy_Status NVARCHAR(50),
+    CPS_Performance_Policy_Level NVARCHAR(50),
+    Healthy_Schools_Certified NVARCHAR(50),
+    Adequate_Yearly_Progress_Made NVARCHAR(50),
+    Individualized_Education_Program_Compliance_Rate FLOAT
+);
+
+INSERT INTO tbl_School_Survey
+SELECT School_ID, Safety_Icon, Safety_Score, Environment_Icon, Environment_Score, CPS_Performance_Policy_Status, CPS_Performance_Policy_Level, Healthy_Schools_Certified,Adequate_Yearly_Progress_Made,Individualized_Education_Program_Compliance_Rate
+FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+
+ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+DROP COLUMN Safety_Icon, Safety_Score, Environment_Icon, Environment_Score, CPS_Performance_Policy_Status, CPS_Performance_Policy_Level, Healthy_Schools_Certified,Adequate_Yearly_Progress_Made,Individualized_Education_Program_Compliance_Rate;
+
+
+-- Create table tbl_Academic_Performance 
+CREATE TABLE tbl_Academic_Performance
+(
+    School_ID INT FOREIGN KEY REFERENCES dbo.tbl_CHICAGO_PUBLIC_SCHOOLS(School_ID),
+    Pk_2_Literacy NVARCHAR(50),
+    Pk_2_Math NVARCHAR(50),
+    Gr3_5_Grade_Level_Math NVARCHAR(50),
+    Gr3_5_Grade_Level_Read NVARCHAR(50),
+    Gr3_5_Keep_Pace_Read NVARCHAR(50),
+    Gr3_5_Keep_Pace_Math NVARCHAR(50),
+    Gr6_8_Grade_Level_Math NVARCHAR(50),
+    Gr6_8_Grade_Level_Read NVARCHAR(50),
+    Gr6_8_Keep_Pace_Math NVARCHAR(50),
+    Gr6_8_Keep_Pace_Read NVARCHAR(50),
+    Gr_8_Explore_Math NVARCHAR(50),
+    Gr_8_Explore_Read NVARCHAR(50),
+    Students_Taking_Algebra NVARCHAR(50),
+    Students_Passing_Algebra NVARCHAR(50),
+    _9th_Grade_EXPLORE_2009 NVARCHAR(50),
+    _9th_Grade_EXPLORE_2010 NVARCHAR(50),
+    _10th_Grade_PLAN_2009 NVARCHAR(50),
+    _10th_Grade_PLAN_2010 NVARCHAR(50),
+    Net_Change_EXPLORE_and_PLAN NVARCHAR(50),
+    _11th_Grade_Average_ACT_2011 NVARCHAR(50),
+    Net_Change_PLAN_and_ACT NVARCHAR(50)
+);
+
+INSERT INTO tbl_Academic_Performance
+SELECT School_ID, Pk_2_Literacy, Pk_2_Math, Gr3_5_Grade_Level_Math, Gr3_5_Grade_Level_Read, Gr3_5_Keep_Pace_Read, Gr3_5_Keep_Pace_Math, Gr6_8_Grade_Level_Math, Gr6_8_Grade_Level_Read, Gr6_8_Keep_Pace_Math, Gr6_8_Keep_Pace_Read, Gr_8_Explore_Math, Gr_8_Explore_Read, Students_Taking_Algebra, Students_Passing_Algebra, _9th_Grade_EXPLORE_2009, _9th_Grade_EXPLORE_2010, _10th_Grade_PLAN_2009, _10th_Grade_PLAN_2010, Net_Change_EXPLORE_and_PLAN, _11th_Grade_Average_ACT_2011, Net_Change_PLAN_and_ACT
+FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+
+ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+DROP COLUMN Pk_2_Literacy, Pk_2_Math, Gr3_5_Grade_Level_Math, Gr3_5_Grade_Level_Read, Gr3_5_Keep_Pace_Read, Gr3_5_Keep_Pace_Math, Gr6_8_Grade_Level_Math, Gr6_8_Grade_Level_Read, Gr6_8_Keep_Pace_Math, Gr6_8_Keep_Pace_Read, Gr_8_Explore_Math, Gr_8_Explore_Read, Students_Taking_Algebra, Students_Passing_Algebra, _9th_Grade_EXPLORE_2009, _9th_Grade_EXPLORE_2010, _10th_Grade_PLAN_2009, _10th_Grade_PLAN_2010, Net_Change_EXPLORE_and_PLAN, _11th_Grade_Average_ACT_2011, Net_Change_PLAN_and_ACT;
+
+-- Create table tbl_Graduation_Enrollment with columns: School_ID (FOREIGN KEY), College_Eligibility, Graduation_Rate, College_Enrollment_Rate, College_Enrollment_number_of_students, Freshman_on_Track_Rate
+CREATE TABLE tbl_Graduation_Enrollment
+(
+    School_ID INT FOREIGN KEY REFERENCES dbo.tbl_CHICAGO_PUBLIC_SCHOOLS(School_ID),
+    College_Eligibility NVARCHAR(50),
+    Graduation_Rate NVARCHAR(50),
+    College_Enrollment_Rate NVARCHAR(50),
+    College_Enrollment_number_of_students NVARCHAR(50),
+    Freshman_on_Track_Rate NVARCHAR(50)
+);
+
+INSERT INTO tbl_Graduation_Enrollment
+SELECT School_ID, College_Eligibility, Graduation_Rate, College_Enrollment_Rate, College_Enrollment_number_of_students, Freshman_on_Track_Rate
+FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+
+ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+DROP COLUMN College_Eligibility, Graduation_Rate, College_Enrollment_Rate, College_Enrollment_number_of_students, Freshman_on_Track_Rate;
+
+--CREATE TABLE tbl_Student_Performance columns School_ID (FOREIGN KEY), Student_Attendance,Rate_of_Misconducts_per_100_students
+CREATE TABLE tbl_Student_Performance
+(
+    School_ID INT FOREIGN KEY REFERENCES dbo.tbl_CHICAGO_PUBLIC_SCHOOLS(School_ID),
+    Average_Student_Attendance FLOAT,
+    Rate_of_Misconducts_per_100_students FLOAT
+);
+
+INSERT INTO tbl_Student_Performance
+SELECT School_ID, Average_Student_Attendance, Rate_of_Misconducts_per_100_students
+
+FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+
+ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+DROP COLUMN Average_Student_Attendance, Rate_of_Misconducts_per_100_students;
