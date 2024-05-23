@@ -1,5 +1,6 @@
 -- Select all
-SELECT * FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS;
+SELECT *
+FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS;
 GO;
 
 -- 566x79
@@ -120,7 +121,8 @@ FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
 ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
 DROP COLUMN Family_Involvement_Icon, Family_Involvement_Score, Parent_Engagement_Icon, Parent_Engagement_Score, Parent_Environment_Icon, Parent_Environment_Score;
 
-SELECT * FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+SELECT *
+FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
 
 
 -- Create table tbl_ISAT with columns: School_ID (FOREIGN KEY), ISAT_Exceeding_Math,ISAT_Exceeding_Reading,ISAT_Value_Add_Math,ISAT_Value_Add_Read,ISAT_Value_Add_Color_Math,ISAT_Value_Add_Color_Read
@@ -207,7 +209,7 @@ CREATE TABLE tbl_School_Survey
 );
 
 INSERT INTO tbl_School_Survey
-SELECT School_ID, Safety_Icon, Safety_Score, Environment_Icon, Environment_Score, CPS_Performance_Policy_Status, CPS_Performance_Policy_Level, Healthy_Schools_Certified,Adequate_Yearly_Progress_Made,Individualized_Education_Program_Compliance_Rate
+SELECT School_ID, Safety_Icon, Safety_Score, Environment_Icon, Environment_Score, CPS_Performance_Policy_Status, CPS_Performance_Policy_Level, Healthy_Schools_Certified, Adequate_Yearly_Progress_Made, Individualized_Education_Program_Compliance_Rate
 FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
 
 ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
@@ -281,3 +283,28 @@ FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
 
 ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
 DROP COLUMN Average_Student_Attendance, Rate_of_Misconducts_per_100_students;
+
+-- Tạo hàm để truy vấn tên trường, địa chỉ và số điện thoại , link của trường dựa trên School_ID
+CREATE FUNCTION get_school_info(@School_ID INT)
+RETURNS TABLE
+AS
+RETURN
+(
+    SELECT
+    cps.School_ID,
+    cps.Name_of_School,
+    'Chiago' as City,
+    'IL' as State,
+    a.ZIP_Code,
+    a.Street_Adress,
+    c.Phone_Number,
+    c.Link
+FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS cps
+    JOIN dbo.tbl_Address a ON cps.School_ID = a.School_ID
+    JOIN dbo.tbl_Contact c ON cps.School_ID = c.School_ID
+WHERE cps.School_ID = @School_ID
+);
+
+
+
+
