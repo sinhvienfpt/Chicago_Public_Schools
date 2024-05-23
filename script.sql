@@ -21,7 +21,7 @@ ADD CONSTRAINT PK_School_ID PRIMARY KEY (School_ID)
 
 
 -- Drop derived column [location] (derived from latitude and longitude )
-ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLSSchool_Type
 DROP COLUMN location;
 
 -- Drop [city] column (has only value 'Chicago') and create a var @city to save it 
@@ -46,7 +46,6 @@ DROP COLUMN RCDTS_Code;
 
 DECLARE @RCDTS VARCHAR(15);
 SET @RCDTS = '150000000000000'
-
 
 
 -- Create a new table tbl_Address with columns: School_ID (FOREIGN KEY), Street_Address, ZIP_Code, X_COORDINATE, Y_COORDINATE, Latitude, Longitude, Ward, Police_District
@@ -101,3 +100,48 @@ FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
 
 ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
 DROP COLUMN Community_Area_Name;
+
+
+-- Create a new table tbl_Family_Engagement_Environment with columns: School_ID (FOREIGN KEY),Family_Involvement_Icon,Family_Involvement_Score Parent_Engagement_Icon, Parent_Engagement_Score, Parent_Environment_Icon, Parent_Environment_Score
+CREATE TABLE tbl_Family_Engagement_Environment
+(
+    School_ID INT FOREIGN KEY REFERENCES dbo.tbl_CHICAGO_PUBLIC_SCHOOLS(School_ID),
+    Family_Involvement_Icon NVARCHAR(50),
+    Family_Involvement_Score NVARCHAR(50),
+    Parent_Engagement_Icon NVARCHAR(50),
+    Parent_Engagement_Score NVARCHAR(50),
+    Parent_Environment_Icon NVARCHAR(50),
+    Parent_Environment_Score NVARCHAR(50)
+);
+
+INSERT INTO tbl_Family_Engagement_Environment
+SELECT School_ID, Family_Involvement_Icon, Family_Involvement_Score, Parent_Engagement_Icon, Parent_Engagement_Score, Parent_Environment_Icon, Parent_Environment_Score
+FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+
+ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+DROP COLUMN Family_Involvement_Icon, Family_Involvement_Score, Parent_Engagement_Icon, Parent_Engagement_Score, Parent_Environment_Icon, Parent_Environment_Score;
+
+SELECT * FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+
+
+-- Create table tbl_ISAT with columns: School_ID (FOREIGN KEY), ISAT_Exceeding_Math,ISAT_Exceeding_Reading,ISAT_Value_Add_Math,ISAT_Value_Add_Read,ISAT_Value_Add_Color_Math,ISAT_Value_Add_Color_Read
+
+CREATE TABLE tbl_ISAT
+(
+    School_ID INT FOREIGN KEY REFERENCES dbo.tbl_CHICAGO_PUBLIC_SCHOOLS(School_ID),
+    ISAT_Exceeding_Math FLOAT,
+    ISAT_Exceeding_Reading FLOAT,
+    ISAT_Value_Add_Math FLOAT,
+    ISAT_Value_Add_Read FLOAT,
+    ISAT_Value_Add_Color_Math NVARCHAR(50),
+    ISAT_Value_Add_Color_Read NVARCHAR(50)
+);
+
+INSERT INTO tbl_ISAT
+SELECT School_ID, ISAT_Exceeding_Math, ISAT_Exceeding_Reading, ISAT_Value_Add_Math, ISAT_Value_Add_Read, ISAT_Value_Add_Color_Math, ISAT_Value_Add_Color_Read
+FROM dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+
+ALTER TABLE dbo.tbl_CHICAGO_PUBLIC_SCHOOLS
+DROP COLUMN ISAT_Exceeding_Math, ISAT_Exceeding_Reading, ISAT_Value_Add_Math, ISAT_Value_Add_Read, ISAT_Value_Add_Color_Math, ISAT_Value_Add_Color_Read;
+
+
