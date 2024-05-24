@@ -1,0 +1,567 @@
+School_ID,Name_of_School,School_Type,Network_Manager,Collaborative_Name,Track_Schedule,General_Services_Route,Community_Area_Number
+400018,Austin Business and Entrepreneurship Academy High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Non_Standard,36,25
+609674,Chicago Vocational Career Academy High School,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Standard,47,45
+609676,Paul Laurence Dunbar Career Academy High School,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Standard,40,35
+609678,William Jones College Preparatory High School,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Standard,38,32
+609679,Charles Allen Prosser Career Academy High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,19
+609680,Walter Payton College Preparatory High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,8
+609682,Ellen H Richards Career Academy High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,42,61
+609691,North-Grand High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,34,23
+609692,Neal F Simeon Career Academy High School,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Standard,45,44
+609693,George Westinghouse High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,34,23
+609694,John Hancock College Preparatory High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,62
+609695,Roald Amundsen High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,4
+609698,William J Bogan High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,70
+609702,Richard T Crane Technical Preparatory High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,38,28
+609704,David G Farragut Career Academy High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,37,30
+609705,Christian Fenger Academy High School,HS,Far South Side High School Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,48,49
+609707,Paul Robeson High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,68
+609708,Edwin G Foreman High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,15
+609709,Gage Park High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,63
+609710,John M Harlan Community Academy High School,HS,Far South Side High School Network,FAR SOUTH SIDE COLLABORATIVE,Standard,48,49
+609711,William Rainey Harper High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,67
+609712,Emil G Hirsch Metropolitan High School,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Track_E,46,69
+609713,Hyde Park Academy High School,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Standard,46,42
+609715,Thomas Kelly High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Standard,39,58
+609716,Kelvyn Park High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,20
+609718,John F Kennedy High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,56
+609719,Lake View High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,6
+609720,Albert G Lane Technical High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,35,5
+609722,Manley Career Academy High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,37,27
+609723,John Marshall Metropolitan High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,38,27
+609724,Stephen T Mather High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,2
+609725,Morgan Park High School,HS,Far South Side High School Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,75
+609726,Gwendolyn Brooks College Preparatory Academy High School,HS,Far South Side High School Network,FAR SOUTH SIDE COLLABORATIVE,Standard,48,49
+609727,Wendell Phillips Academy High School,HS,AUSL Schools,SOUTH SIDE COLLABORATIVE,Track_E,40,35
+609728,Theodore Roosevelt High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,14
+609729,Carl Schurz High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,16
+609730,Nicholas Senn High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,77
+609732,Charles P Steinmetz Academic Centre High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,19
+609733,Roger C Sullivan High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,1
+609734,William Howard Taft High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,10
+609735,Edward Tilden Career Community Academy High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,42,61
+609736,Dyett High School,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Track_E,42,40
+609737,Friedrich W von Steuben Metropolitan Science High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,13
+609738,Lincoln Park High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,7
+609739,George Washington High School,HS,Far South Side High School Network,FAR SOUTH SIDE COLLABORATIVE,Standard,47,52
+609740,Wells Community Academy High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,35,24
+609741,Gurdon S Hubbard High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,65
+609744,Northside Learning Center High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,13
+609745,Southside Occupational Academy High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,67
+609746,Kenwood Academy High School,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Standard,46,39
+609749,Northside College Preparatory High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,13
+609751,Dr  Martin Luther King  Jr  College Prep High School,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Standard,40,39
+609753,Chicago High School for Agricultural Sciences,HS,Far South Side High School Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,74
+609754,Chicago Military Academy High School,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Standard,40,35
+609755,Whitney M Young Magnet High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,38,28
+609756,Marie Sklodowska Curie Metropolitan High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Standard,37,57
+609759,Roberto Clemente Community Academy High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,35,24
+609760,George Washington Carver Military Academy High School,HS,Far South Side High School Network,FAR SOUTH SIDE COLLABORATIVE,Standard,48,54
+609761,George H Corliss High School,HS,Far South Side High School Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,48,50
+609762,Percy L Julian High School,HS,Far South Side High School Network,FAR SOUTH SIDE COLLABORATIVE,Standard,49,73
+609764,Benito Juarez Community Academy High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,39,31
+609766,Jacqueline B Vaughn Occupational High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,30,15
+609768,Hope College Preparatory High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Standard,45,68
+609769,Ray Graham Training Center High School,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Standard,40,33
+609772,Jane Addams Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,47,52
+609773,Louis A Agassiz Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,6
+609774,Louisa May Alcott Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,35,7
+609775,John P Altgeld Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,67
+609777,Phillip D Armour Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,40,60
+609779,George Armstrong International Studies Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,2
+609780,Ames Middle School,MS,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,34,22
+609781,Crispus Attucks Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,42,38
+609782,John J Audubon Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,5
+609786,Avalon Park Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,47,45
+609788,Alice L Barnard Computer Math & Science Center Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,72
+609789,John Barry Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,20
+609790,Clara Barton Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,71
+609791,Perkins Bass Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,68
+609792,Newton Bateman Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,16
+609793,Nicholson Technology Academy,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,68
+609794,Thomas A Edison Regional Gifted Center Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,14
+609795,George Rogers Clark Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+609796,Jean Baptiste Beaubien Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,11
+609797,Jacob Beidler Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,34,27
+609798,Hiram H Belding Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,16
+609799,Alexander Graham Bell Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,35,5
+609800,Frank I Bennett Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,48,49
+609803,James G Blaine Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,6
+609804,Daniel Boone Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,2
+609805,Scott Joplin Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,71
+609806,Myra Bradwell Communications Arts & Sciences Elementary School,ES,AUSL Schools,SOUTH SIDE COLLABORATIVE,Standard,46,43
+609807,Lionel Hampton Fine & Performing Arts Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,44,70
+609808,Alex Haley Elementary Academy,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,48,49
+609809,Lorenz Brentano Math & Science Academy Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,22
+609810,Norman A Bridge Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,17
+609811,Orville T Bright Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,47,51
+609812,William H Brown Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,38,28
+609813,Charles S Brownell Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,42,69
+609815,Edward A Bouchet Math & Science Academy Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,46,43
+609817,Lyman A Budlong Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,4
+609818,Luther Burbank Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,19
+609819,Edmond Burke Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,42,40
+609820,Augustus H Burley Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,6
+609821,Burnham Elementary Inclusive Academy,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,47,51
+609826,Rosario Castellanos Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,30
+609827,Burnside Elementary Scholastic Academy,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,45,44
+609828,Jonathan Burr Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Track_E,35,24
+609829,John C Burroughs Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,39,58
+609830,Milton Brunson Math & Science Specialty Elementary School ,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+609832,Michael M Byrne Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,56
+609833,Charles P Caldwell Academy of Math & Science Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,47,45
+609834,Little Village Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,30
+609835,Daniel R Cameron Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,34,23
+609836,Arthur E Canty Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,17
+609837,Andrew Carnegie Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,46,42
+609839,Carroll-Rosenwald Specialty Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,70
+609842,Rachel Carson Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,63
+609844,William W Carter Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,42,40
+609845,George Washington Carver Primary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,48,54
+609848,Ira F Aldridge Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,48,54
+609849,George F Cassell Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,74
+609850,Horace Greeley Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,6
+609851,Thomas Chalmers Specialty Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,39,29
+609852,Eliza Chappell Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,4
+609853,Salmon P Chase Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,35,22
+609854,Frederic Chopin Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,35,24
+609855,Walter S Christopher Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,43,63
+609856,Henry Clay Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,47,55
+609857,Grover Cleveland Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,16
+609859,DeWitt Clinton Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,2
+609861,Henry R Clissold Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,49,75
+609862,Edward Coles Elementary Language Academy,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,47,46
+609863,Christopher Columbus Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,35,24
+609864,John W Cook Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,49,71
+609865,Jordan Elementary Community School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,1
+609866,John C Coonley Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,5
+609867,Peter Cooper Elementary Dual Language Academy,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Standard,39,31
+609869,Anna R. Langford Community Academy,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,67
+609870,Daniel J Corkery Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,30
+609871,Barbara Vick Early Childhood & Family Center,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,75
+609872,Manuel Perez Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Standard,39,31
+609873,Crown Community Academy of Fine Arts Center Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,29
+609874,Everett McKinley Dirksen Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,30,76
+609875,Charles R Darwin Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,35,22
+609876,Nathan S Davis Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,39,58
+609879,Charles Gates Dawes Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,70
+609880,Stephen Decatur Classical Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,2
+609881,Edward C Delano Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,34,26
+609883,Charles S Deneen Elementary School,ES,AUSL Schools,SOUTH SIDE COLLABORATIVE,Track_E,46,69
+609884,William E Dever Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,17
+609885,Dewey Elementary Academy of Fine Arts,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,45,61
+609887,Arthur Dixon Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,45,44
+609888,Mary Mapes Dodge Elementary Renaissance Academy,ES,AUSL Schools,WEST SIDE COLLABORATIVE,Track_E,38,27
+609891,James R Doolittle Jr Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,40,35
+609893,John C Dore Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,64
+609894,John B Drake Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,40,35
+609895,Turner-Drew Elementary Language Academy,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,48,49
+609896,Thomas Drummond Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,35,22
+609897,Charles W Earle Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,67
+609898,John F Eberhart Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,66
+609899,Christian Ebinger Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,9
+609900,George W Curtis Elementary School,ES,AUSL Schools,FAR SOUTH SIDE COLLABORATIVE,Standard,48,49
+609901,Edgebrook Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,12
+609902,Ralph H Metcalfe Elementary Community Academy,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,48,53
+609903,Richard Edwards Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,44,57
+609904,Edward K Ellington Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+609906,Robert Emmet Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+609907,Leif Ericson Elementary Scholastic Academy,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Standard,34,27
+609908,Esmond Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,75
+609909,Edward Everett Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,39,59
+609910,Laughlin Falconer Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,19
+609912,James B Farnsworth Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,30,11
+609913,Elaine O Goodlow Elementary Magnet School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,43,67
+609916,Enrico Fermi Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,46,43
+609917,Fernwood Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,73
+609918,Eugene Field Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,1
+609919,John Fiske Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,46,42
+609920,Gerald Delgado Kanoon Elementary Magnet School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,30
+609921,Telpochcalli Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Standard,39,30
+609922,Belmont-Cragin Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,29,19
+609924,Fort Dearborn Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,49,73
+609925,Joseph Kellman Corporate Community Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,27
+609926,Franklin Elementary Fine Arts Center,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,8
+609927,Foster Park Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,43,71
+609928,Melville W Fuller Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,40,38
+609929,Robert Fulton Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,61
+609930,Frederick Funston Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,34,22
+609932,Jesse Owens Elementary Community Academy,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,48,53
+609933,Stephen F Gale Elementary Community Academy,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,1
+609935,Matthew Gallistel Elementary Language Academy,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,47,52
+609937,John W Garvy Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,10
+609938,Joseph E Gary Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Standard,37,30
+609939,Frank L Gillespie Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,48,49
+609941,Asa Philip Randolph Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,67
+609942,Johann W von Goethe Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,35,22
+609943,Samuel Gompers Fine Arts Options Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,48,53
+609944,Virgil Grissom Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,47,55
+609945,William C Goudy Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,3
+609947,Alexander Graham Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,42,61
+609949,William P Gray Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,15
+609950,Josefa Ortiz De Dominguez Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Standard,37,30
+609951,Ariel Elementary Community Academy,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,42,39
+609952,Nathanael Greene Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,39,59
+609954,John Milton Gregory Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,27
+609955,Walter Q Gresham Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,45,71
+609956,Robert L Grimes Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,64
+609958,Frank W Gunsaulus Elementary Scholastic Academy,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,39,58
+609959,John Charles Haines Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,40,34
+609960,Nathan Hale Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,64
+609961,Ninos Heroes Elementary Academic Center,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,47,46
+609963,Alexander Hamilton Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,6
+609964,John H Hamline Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,42,61
+609966,Charles G Hammond Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,39,30
+609967,William F Finkl Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,39,31
+609968,Sharon Christa McAuliffe Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,34,20
+609969,Bret Harte Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,46,41
+609971,John Harvard Elementary School of Excellence,ES,AUSL Schools,SOUTH SIDE COLLABORATIVE,Track_E,45,69
+609972,Helge A Haugan Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,14
+609973,Emiliano Zapata Elementary Academy,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,30
+609974,Hawthorne Elementary Scholastic Academy,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,6
+609975,John Hay Elementary Community Academy,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+609976,Stephen K Hayt Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,77
+609977,Woodlawn Community Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,46,42
+609978,Wendell Smith Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,48,50
+609979,Robert Healy Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,40,60
+609981,Phobe Apperson Hearst Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,44,56
+609983,James Hedges Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,42,61
+609985,Helen M Hefferan Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,26
+609986,Charles R Henderson Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,67
+609987,Thomas A Hendricks Elementary Community Academy,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,42,37
+609988,Patrick Henry Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,16
+609989,Victor Herbert Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Track_E,38,28
+609990,South Loop Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,38,33
+609991,Theodore Herzl Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,29
+609993,Agustin Lara Elementary Academy,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,42,61
+609994,William G Hibbard Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,14
+609995,Rufus M Hitch Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,10
+609996,Charles N Holden Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,40,60
+609997,Oliver Wendell Holmes Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,68
+610000,Julia Ward Howe Elementary School of Excellence,ES,AUSL Schools,WEST SIDE COLLABORATIVE,Track_E,36,25
+610002,Thomas Hoyne Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,47,48
+610003,Paul Cuffe Math-Science Technology Academy Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,71
+610004,Countee Cullen Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,48,49
+610005,Charles Evans Hughes Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,29
+610006,Edward N Hurley Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,44,65
+610009,Galileo Math & Science Scholastic Academy Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,38,28
+610010,Friedrich Ludwig Jahn Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,5
+610011,Minnie Mars Jamieson Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,2
+610012,Edward Jenner Elementary Academy of the Arts,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,33,8
+610013,Pilsen Elementary Community Academy,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Standard,39,31
+610015,Joseph Jungman Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Standard,39,31
+610016,Kate S Kellogg Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,49,72
+610017,Maria Saucedo Elementary Scholastic Academy,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Standard,39,30
+610018,Miriam G Canter Middle School,MS,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,46,39
+610019,Joshua D Kershaw Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,68
+610020,Francis Scott Key Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+610021,Pablo Casals Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,34,23
+610022,Joyce Kilmer Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,1
+610023,William H King Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Track_E,38,28
+610024,Lazaro Cardenas Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,30
+610026,John H Kinzie Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,56
+610027,Rudyard Kipling Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,49,73
+610028,Alfred David Kohn Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,48,49
+610029,Rodolfo Lozano Bilingual & International Center Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,35,24
+610030,Charles Kozminski Elementary Community Academy,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,46,41
+610031,Jean D Lafayette Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Track_E,34,24
+610032,Wendell E Green Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,49,73
+610033,LaSalle Elementary Language Academy,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,7
+610034,Lawndale Elementary Community Academy,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,29
+610036,Leslie Lewis Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+610037,Arthur A Libby Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,61
+610038,Abraham Lincoln Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,7
+610039,Carl von Linne Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,21
+610040,Henry D Lloyd Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,29,19
+610041,Josephine C Locke Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,18
+610043,Joseph Lovett Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,29,25
+610044,James Russell Lowell Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,34,23
+610045,Robert H Lawrence Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,47,51
+610046,Mary Lyon Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,19
+610047,James Madison Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,46,43
+610048,George Manierre Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,8
+610051,Northwest Middle School,MS,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,19
+610052,Horace Mann Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,47,46
+610053,Marquette Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,44,66
+610054,John L Marsh Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,47,51
+610055,Michael Faraday Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,38,27
+610056,Roswell B Mason Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,29
+610057,Fairfield Elementary Academy,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,66
+610058,Horatio May Elementary Community Academy,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+610059,Oscar F Mayer Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,7
+610060,Andrew Jackson Elementary Language Academy,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,38,28
+610061,William J & Charles H Mayo Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,40,35
+610062,George B McClellan Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,40,60
+610063,Cyrus H McCormick Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,30
+610065,Emmett Louis Till Math and Science Academy,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,46,42
+610066,James E McDade Elementary Classical School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,45,44
+610067,Francis M McKay Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,66
+610068,Hanson Park Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,19
+610070,James B McPherson Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,4
+610072,Garrett A Morgan Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,71
+610073,Ellen Mitchell Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,35,24
+610074,James Monroe Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,29,22
+610075,Moses Montefiore Special Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Track_E,38,28
+610076,Bernhard Moos Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Track_E,34,24
+610077,Donald Morrill Math & Science Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,66
+610078,Inter-American Elementary Magnet School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,6
+610081,Mark Sheridan Elementary Math & Science Academy,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,40,60
+610082,Mount Greenwood Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,49,74
+610083,Daniel C Beard Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,30,10
+610084,Annie Keller Elementary Gifted Magnet School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,49,74
+610085,Near North Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,35,24
+610086,Mount Vernon Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,73
+610087,Blair Early Childhood Center,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,44,64
+610088,Wolfgang A Mozart Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,34,22
+610089,John B Murphy Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,16
+610090,Phillip Murray Elementary Language Academy,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,46,41
+610091,Ronald Brown Elementary Community Academy,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,48,53
+610092,Henry H Nash Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+610093,Jane A Neil Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,45,44
+610094,Louis Nettelhorst Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,6
+610095,Walter L Newberry Math & Science Academy Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,7
+610096,Florence Nightingale Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,63
+610097,William P Nixon Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,34,20
+610098,Alfred Nobel Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,34,23
+610099,Norwood Park Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,10
+610100,West Park Elementary Academy,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,34,23
+610101,William B Ogden Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,8
+610102,Richard J Oglesby Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,71
+610103,Isabelle C O'Keeffe Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,46,43
+610104,William J Onahan Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,10
+610105,Oriole Park Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,10
+610106,Brian Piccolo Elementary Specialty School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,34,23
+610107,James Otis Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,35,24
+610108,Luke O'Toole Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,67
+610109,William Bishop Owen Scholastic Academy Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,70
+610110,Ida B Wells Preparatory Elementary Academy,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,40,35
+610111,John Palmer Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,14
+610112,Francis W Parker Elementary Community Academy,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,45,68
+610114,Francis Parkman Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,42,37
+610115,Park Manor Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,46,69
+610116,Parkside Elementary Community Academy,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,46,43
+610117,Louis Pasteur Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,44,62
+610119,Elizabeth Peabody Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,35,24
+610120,Ferdinand Peck Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,44,62
+610121,Washington Irving Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Track_E,38,28
+610122,Helen Peirce International Studies Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,77
+610123,William Penn Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,29
+610124,Harold Washington Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,48,47
+610125,Irma C Ruiz Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Standard,39,31
+610126,John J Pershing Elementary Humanities Magnet,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,40,35
+610127,Mary Gage Peterson Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,13
+610128,Marcus Moziah Garvey Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,73
+610129,Josiah Pickard Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,39,31
+610130,John T Pirie Fine Arts & Academic Center Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,45,44
+610131,Ambrose Plamondon Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,39,29
+610132,Edgar Allan Poe Elementary Classical School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,48,50
+610133,Laura S Ward Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,34,23
+610134,Nathaniel Pope Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,29
+610135,Portage Park Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,15
+610136,William H Prescott Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,33,7
+610137,Ernst Prussing Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,15
+610138,Pulaski International Academy Elmentary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,35,22
+610139,George M Pullman Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,48,50
+610141,Ravenswood Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,6
+610142,William H Ray Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,46,41
+610143,William C Reavis Math & Science Specialty Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,42,39
+610144,Frank W Reilly Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,21
+610145,Peter A Reinberg Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,15
+610146,Paul Revere Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,46,69
+610147,Philip Rogers Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,2
+610148,Cesar E Chavez Multicultural Academic Center Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,42,61
+610150,Betsy Ross Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,42,40
+610152,Martha Ruggles Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,46,69
+610153,William H Ryder Math & Science Specialty Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,49,71
+610154,Martin A Ryerson Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,34,23
+610155,Sauganash Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,12
+610156,Louis Armstrong Math & Science Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+610157,Sidney Sawyer Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,63
+610158,Harriet E Sayre Elementary Language Academy,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Standard,29,25
+610159,Jonathan Y Scammon Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,29,16
+610160,Songhai Elementary Learning Institute,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,48,53
+610161,Arna Wendell Bontemps Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,67
+610163,Frederick Stock Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,9
+610165,Franz Peter Schubert Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,29,19
+610167,William H Seward Communication Arts Academy Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,42,61
+610169,Austin O Sexton Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,42,42
+610170,Columbia Explorers Elementary Academy,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,39,58
+610171,Arnold Mireles Elementary Academy,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,47,46
+610172,William T Sherman Elementary School,ES,AUSL Schools,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,61
+610173,Jesse Sherwood Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,42,68
+610174,James Shields Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,39,58
+610175,Beulah Shoesmith Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,46,39
+610176,John D Shoop Math-Science Technical Academy Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,75
+610177,Mark Skinner Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,38,28
+610178,Theophilus Schmid Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,48,50
+610179,Washington D Smyser Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,15
+610180,John M Smyth Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Track_E,38,28
+610182,Hannah G Solomon Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,13
+610183,Spencer Technology Academy,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+610184,John Spry Elementary Community School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,39,30
+610185,Adlai E Stevenson Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,70
+610187,Graeme Stewart Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,3
+610188,Dunne Technology Academy,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,49
+610189,Joseph Stockton Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,3
+610191,Stone Elementary Scholastic Academy,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,2
+610192,Harriet Beecher Stowe Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Standard,34,23
+610193,William K New Sullivan Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,47,46
+610194,Charles Sumner  Math & Science Community Acad Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Standard,36,26
+610195,Elizabeth H Sutherland Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,49,72
+610196,George B Swift Elementary Specialty School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,77
+610197,Mancel Talcott Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,35,24
+610198,Douglas Taylor Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,47,52
+610199,Johnnie Colemon Elementary Academy,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,53
+610200,James N Thorp Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,47,46
+610201,Ole A Thorp Elementary Scholastic Academy,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,17
+610202,George W Tilton Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,26
+610203,Enrico Tonti Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,44,63
+610205,Lyman Trumbull Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,77
+610206,Mark Twain Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,56
+610207,John H Vanderpoel Elementary Magnet School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,49,72
+610208,Mildred I Lavizzo Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,48,49
+610209,Alessandro Volta Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,31,14
+610210,Alexander von Humboldt Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,34,24
+610212,Albany Park Multicultural Academy,MS,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,14
+610213,James Wadsworth Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,46,42
+610215,Francisco I Madero Middle School,MS,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,30
+610216,John A Walsh Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,39,31
+610217,James Ward Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,40,34
+610218,Joseph Warren Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,47,48
+610219,George Washington Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,47,52
+610220,Thomas J Waters Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,4
+610221,Daniel Webster Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,26
+610223,Daniel S Wentworth Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,68
+610224,West Pullman Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,48,53
+610225,John Whistler Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,53
+610226,Socorro Sandoval Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,44,63
+610227,Eli Whitney Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,30
+610228,John Greenleaf Whittier Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Standard,39,31
+610229,A.N. Pritzker School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,35,24
+610230,Wildwood Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,12
+610231,National Teachers Elementary Academy,ES,AUSL Schools,SOUTH SIDE COLLABORATIVE,Track_E,40,33
+610232,Williams Multiplex Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,40,35
+610233,Elihu Yale Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,45,69
+610234,Richard Yates Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,34,22
+610235,Ella Flagg Young Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+610237,Ludwig Van Beethoven Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,42,38
+610238,Carrie Jacobs Bond Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,68
+610239,Richard J Daley Elementary Academy,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,42,61
+610240,Matthew A Henson Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,29
+610241,Guglielmo Marconi Elementary Community Academy,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Standard,36,26
+610242,Joseph Brennemann Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,3
+610243,John Calhoun North Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,38,27
+610244,Michele Clark Academic Prep Magnet High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,36,25
+610245,Frederick A Douglass Academy High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,36,25
+610246,Edward Beasley Elementary Magnet Academic Center,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,42,40
+610248,Chicago Academy Elementary School,ES,AUSL Schools,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,17
+610249,Talman Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,43,63
+610250,Rueben Salazar Elementary Bilingual Center,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Track_E,33,8
+610251,Willa Cather Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,34,27
+610252,Robert Nathaniel Dett Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Track_E,35,28
+610253,Julia C Lathrop Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Standard,37,29
+610254,Dvorak Technology Academy,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Standard,37,29
+610256,Jackie Robinson Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,40,36
+610257,Morton School of Excellence,ES,AUSL Schools,WEST SIDE COLLABORATIVE,Track_E,34,23
+610258,Florence B Price Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,40,39
+610263,John Foster Dulles Elementary School,ES,AUSL Schools,SOUTH SIDE COLLABORATIVE,Track_E,42,69
+610264,Walter Reed Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,45,68
+610265,Benjamin Banneker Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,68
+610266,Dumas Technology Academy,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,46,42
+610268,Arthur R Ashe Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,45,44
+610269,John T McCutcheon Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,3
+610271,Jensen Elementary Scholastic Academy,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,27
+610273,Ignance Paderewski Elementary Learning Academy,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Track_E,37,30
+610274,James Weldon Johnson Elementary School,ES,AUSL Schools,WEST SIDE COLLABORATIVE,Track_E,37,29
+610276,Irvin C Mollison Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,40,38
+610277,Anthony Overton Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,42,38
+610279,Henry O Tanner Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,46,69
+610280,Kate S Buckingham Special Education Center,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,47,48
+610281,Adam Clayton Powell Paideia Community Academy Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,46,43
+610282,Ronald E McNair Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+610283,Simon Guggenheim Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,68
+610284,New Field Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,1
+610285,Granville T Woods Math & Science Academy Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,67
+610287,Ashburn Community Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,70
+610290,Benjamin E Mays Elementary Academy,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,68
+610291,Richard Henry Lee Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,44,65
+610293,Genevieve Melody Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,26
+610295,Thomas J Higgins Elementary Community Academy,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,53
+610297,High School of Leadership at South Shore,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Standard,46,43
+610298,Lenart Elementary Regional Gifted Center,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,45,44
+610299,William A Hinton Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,68
+610300,Oliver S Westcott Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,45,44
+610304,Phoenix Military Academy High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,38,28
+610305,George Leland Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+610308,Wilma Rudolph Elementary Learning Center,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,38,28
+610312,Mary E McDowell Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,47,48
+610313,Jose De Diego Elementary Community Academy,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,35,24
+610315,Edward White Elementary Career Academy,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,53
+610316,Amelia Earhart Options for Knowledge Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,47,48
+610317,Brighton Park Elementary School,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,39,58
+610319,Evergreen Academy Middle School,MS,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,39,59
+610320,Ana Roque de Duprey Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,34,24
+610321,Thurgood Marshall Middle School,MS,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,16
+610323,New Millennium High School of Health at Bowen,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Standard,47,46
+610325,Logandale Middle School,MS,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,21
+610329,Orozco Fine Arts & Sciences Elementary School,ES,Pilsen-Little Village Elementary Network,WEST SIDE COLLABORATIVE,Standard,39,31
+610334,Al Raby High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Track_E,34,27
+610336,Williams Preparatory Academy Middle School,MS,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,40,35
+610339,Amos Alonzo Stagg Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,68
+610340,Chicago Academy High School,HS,AUSL Schools,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,17
+610342,Albert R Sabin Elementary Magnet School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,35,24
+610345,Carter G Woodson South Elementary School,ES,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Track_E,40,38
+610347,Claremont Academy Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,66
+610348,Nathan R Goldblatt Elementary School,ES,Garfield-Humboldt Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,26
+610350,Robert A Black Magnet Elementary School,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,47,48
+610352,Durkin Park Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,44,70
+610353,Calmeca Academy of Fine Arts and Dual Language,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,39,58
+610354,North River Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,31,14
+610355,Mary E Courtenay Elementary Language Arts Center,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,6
+610357,Spry Community Links High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,39,30
+610362,Medgar Evers Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,49,73
+610363,Walt Disney Magnet Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,3
+610364,William E B Dubois Elementary School,ES,Lake Calumet Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Track_E,48,54
+610365,Mary McLeod Bethune Elementary School,ES,AUSL Schools,WEST SIDE COLLABORATIVE,Track_E,37,27
+610366,Charles H Wacker Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,49,73
+610367,Oscar DePriest Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,25
+610368,Langston Hughes Elementary School,ES,Rock Island Elementary Network,FAR SOUTH SIDE COLLABORATIVE,Standard,48,49
+610369,Mahalia Jackson Elementary School,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,49,71
+610380,Daniel Hale Williams Prep School of Medicine,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Standard,42,38
+610381,Bronzeville Scholastic Academy High School,HS,South Side High School Network,SOUTH SIDE COLLABORATIVE,Standard,42,38
+610383,Greater Lawndale High School For Social Justice,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Track_E,37,30
+610384,Infinity Math Science and Technology High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Track_E,37,30
+610385,Multicultural Academy of Scholarship,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Track_E,37,30
+610389,Orr Academy High School,HS,AUSL Schools,WEST SIDE COLLABORATIVE,Standard,34,23
+610390,Hyman G Rickover Naval Academy High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,77
+610391,Robert Lindblom Math & Science Academy High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,67
+610392,World Language Academy High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Track_E,37,30
+610394,Uplift Community High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,3
+610395,Pershing West Middle School,MS,Burnham Park Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,40,35
+610396,Tarkington School of Excellence Elementary School,ES,AUSL Schools,SOUTHWEST SIDE COLLABORATIVE,Standard,44,66
+610402,DeVry University Advantage Academy High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,35,5
+610405,Suder Montessori Magnet Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,38,28
+610499,Collins Academy High School,HS,AUSL Schools,WEST SIDE COLLABORATIVE,Standard,37,29
+610501,Austin Polytechnical Academy High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,36,25
+610502,Marine Military Math and Science Academy ,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,38,28
+610503,Frazier Prospective IB Magnet Elementary School,ES,Austin-North Lawndale Elementary Network,WEST SIDE COLLABORATIVE,Track_E,36,29
+610504,Velma F Thomas Early Childhood Center,ES,Pershing Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Standard,39,59
+610506,TEAM Englewood Community Academy High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,68
+610513,Air Force Academy High School,HS,Southwest Side High School Network,SOUTHWEST SIDE COLLABORATIVE,Standard,40,34
+610515,Disney II Magnet School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,16
+610518,VOISE Academy High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,36,25
+610520,LaSalle II Magnet Elementary School,ES,Fulton Elementary Network,WEST SIDE COLLABORATIVE,Standard,35,24
+610521,Sir Miles Davis Magnet Elementary Academy,ES,Englewood-Gresham Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,43,67
+610523,Edison Park Elementary School,ES,O'Hare Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,10
+610524,Alcott High School for the Humanities,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,5
+610529,Ogden International High School,HS,North-Northwest Side High School Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,35,24
+610530,South Shore Fine Arts Academy,ES,Skyway Elementary Network,SOUTH SIDE COLLABORATIVE,Standard,46,43
+610532,Irene C. Hernandez Middle School for the Advancement of Science,MS,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,45,63
+610533,Dr Jorge Prieto Math and Science,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,19
+610534,Skinner North,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,33,8
+610535,Mason High School,HS,West Side High School Network,WEST SIDE COLLABORATIVE,Standard,36,29
+610539,Marvin Camras Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,30,19
+610541,Federico Garcia Lorca Elementary School,ES,Fullerton Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,29,21
+610542,West Ridge Elementary School,ES,Ravenswood-Ridge Elementary Network,NORTH-NORTHWEST SIDE COLLABORATIVE,Standard,32,2
+610543,Eric Solorio Academy High School,HS,AUSL Schools,SOUTHWEST SIDE COLLABORATIVE,Standard,44,63
+610544,Mariano Azuela Elementary School,ES,Midway Elementary Network,SOUTHWEST SIDE COLLABORATIVE,Track_E,44,65
